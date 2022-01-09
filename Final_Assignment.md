@@ -1,6 +1,6 @@
 # GIT Assignment
 
-Install GIT & make sure it is added into PATH. Please find the Repository link for this section (https://github.com/subhamsatpathy11/Test_Assignment)
+Install GIT & make sure it is added into PATH. Please find the Repository link for GIT Basics section (https://github.com/subhamsatpathy11/Test_Assignment)
 
 ## Section 0 -Use GIT as local VCS. Steps to follow:
 
@@ -263,7 +263,7 @@ b6e4aca Commiting
 
 # GIT Branching
 
-Objective: Commit HTML, CSS & JavaScript assignments into GIT. 
+Objective: Commit HTML, CSS & JavaScript assignments into GIT. Please find the Repository link for GIT Branching sections (https://github.com/subhamsatpathy11/Section1)
 
 ## SECTION-1 (HTML assignments) - Steps to follow:
 
@@ -821,7 +821,7 @@ $ git branch
 ```
 # GIT Remoting
 
-Objective: Pushing source code into GITHUB & collaborate team members. 
+Objective: Pushing source code into GITHUB & collaborate team members. Please find the Repository link for GIT Remoting Section (https://github.com/BOB0887/freshersbatch-oct16.git)
 
 ## SECTION-4 (Pushing assignments to remote repository) - Steps to follow:
 
