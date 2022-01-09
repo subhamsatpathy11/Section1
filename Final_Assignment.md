@@ -1,7 +1,6 @@
 # GIT Assignment
 
-Install GIT & make sure it is added into PATH. Please find the Repository link for this section below;
-(https://github.com/subhamsatpathy11/Test_Assignment)
+Install GIT & make sure it is added into PATH. Please find the Repository link for this section (https://github.com/subhamsatpathy11/Test_Assignment)
 
 ## Section 0 -Use GIT as local VCS. Steps to follow:
 
