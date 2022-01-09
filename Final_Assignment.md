@@ -821,7 +821,7 @@ $ git branch
 ```
 # GIT Remoting
 
-Objective: Pushing source code into GITHUB & collaborate team members. Please find the Repository link for GIT Remoting Section (https://github.com/BOB0887/freshersbatch-oct16.git)
+Objective: Pushing source code into GITHUB & collaborate team members. Please find the Repository link for GIT Remoting Section (https://github.com/BOB0887/freshersbatch-oct16)
 
 ## SECTION-4 (Pushing assignments to remote repository) - Steps to follow:
 
